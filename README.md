@@ -83,27 +83,33 @@ The architecture of this framework looks like below.
 
 zakiis-framework
 
-|-- zakiis-core
+|-- [zakiis-core](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-core)
 
 |-- zakiis-dependencies
 
 |-- |-- spring-cloud-zakiis-dependencies
 
-|-- zakiis-security
-
-|-- |-- zakiis-gateway-starter
-
-|-- |-- zakiis-job-starter
-
-|-- |-- zakiis-log-starter
-
-|-- |-- zakiis-rdb-starter
-
-|-- |-- zakiis-security-starter
-
-|-- |-- zakiis-web-starter
+|-- [zakiis-security](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-security)
 
 |-- zakiis-starter
+
+|-- |-- [zakiis-auditlog-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-auditlog-starter)
+
+|-- |-- |-- zakiis-auditlog-client-starter
+
+|-- |-- |-- zakiis-auditlog-server-starter
+
+|-- |-- [zakiis-gateway-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-gateway-starter)
+
+|-- |-- [zakiis-job-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-job-starter)
+
+|-- |-- [zakiis-log-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-log-starter)
+
+|-- |-- [zakiis-rdb-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-rdb-starter)
+
+|-- |-- [zakiis-security-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-security-starter)
+
+|-- |-- [zakiis-web-starter](https://github.com/zakiis/zakiis-framework/tree/main/zakiis-starter/zakiis-web-starter)
 
 ### How to use it
 
