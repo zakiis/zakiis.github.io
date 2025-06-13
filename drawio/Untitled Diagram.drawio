@@ -1,11 +1,258 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.0.14">
-  <diagram name="md" id="U8RAqAaJDqWfhK1GvfZA">
-    <mxGraphModel dx="1562" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="md-chunk" id="U8RAqAaJDqWfhK1GvfZA">
+    <mxGraphModel dx="1838" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oBs3oRwcgIcFms1ozHlf-1" value="&lt;font&gt;一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="110" height="30" as="geometry" />
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="220" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-1" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-3" value="正文段落1……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-4" value="正文段落2……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-5" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-6" value="正文段落3……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-7" value="正文段落4……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-8" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-9" value="正文段落5……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-10" value="正文段落6……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-11" value="正文段落7……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-12" value="正文段落8……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="460" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chunk&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBs3oRwcgIcFms1ozHlf-15">
+          <mxGeometry x="-0.1822" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-18" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-19" value="正文段落1……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-20" value="正文段落2……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-21" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-22" value="正文段落3……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-24" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-27" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-29" value="正文段落4……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-30" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-31" value="正文段落5……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-34" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="510" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-35" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-37" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-39" value="正文段落6……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="630" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-40" value="&lt;font&gt;1.2 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-41" value="&lt;font&gt;2 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="690" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-43" value="&lt;font&gt;1 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="700" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-44" value="&lt;font&gt;1.2 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="525" y="740" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-46" value="正文段落7……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="840" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-48" value="&lt;font&gt;2 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="850" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-50" value="正文段落8……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-51" value="方案1：拆分chunk时，如果碰到比当前高级别的标题，立即结束" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="970" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1380" width="220" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-53" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1390" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-54" value="正文段落1……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-55" value="正文段落2……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-56" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1500" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-57" value="正文段落3……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1530" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-58" value="正文段落4……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-59" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1610" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-60" value="正文段落5……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-61" value="正文段落6……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-62" value="正文段落7……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-63" value="正文段落8……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="1630" as="sourcePoint" />
+            <mxPoint x="405" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-65" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chunk&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oBs3oRwcgIcFms1ozHlf-64">
+          <mxGeometry x="-0.1822" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1220" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-67" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-68" value="正文段落1……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-69" value="正文段落2……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-70" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-71" value="正文段落3……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1450" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-73" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-74" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1500" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-75" value="正文段落4……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-76" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1580" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-77" value="正文段落5……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1610" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1670" width="240" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-79" value="&lt;font&gt;1. 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1680" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-80" value="&lt;font&gt;1.1 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1720" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-81" value="&lt;font&gt;1.1.1 三级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-82" value="正文段落6……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-83" value="&lt;font&gt;1.2 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1730" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-84" value="&lt;font&gt;2 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1810" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-87" value="&lt;font&gt;1.2 二级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1840" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-88" value="正文段落7……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1880" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1940" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-90" value="&lt;font&gt;2 一级标题&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1950" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-91" value="正文段落8……" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1990" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBs3oRwcgIcFms1ozHlf-92" value="方案2：拆分chunk时，如果碰到比当前高级别的标题不结束" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2050" width="710" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
